@@ -2,6 +2,8 @@
 
 [Download the PDF Guide](https://drive.google.com/file/d/1dDgu4QnuUHyYqoK2ub7V0HaZbb2_A1q3/view?usp=drive_link)
 
+<a href="https://drive.google.com/file/d/1dDgu4QnuUHyYqoK2ub7V0HaZbb2_A1q3/view?usp=drive_link" target="_blank">Download the PDF Guide</a>
+
 ## Table of Contents
 
 1. Introduction to Terraform
