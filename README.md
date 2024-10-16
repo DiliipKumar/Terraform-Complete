@@ -1,6 +1,6 @@
 # Terraform Guide
 
-[Download the PDF Guide](./docs/terraform_guide.pdf)
+[Download the PDF Guide](./docs/completeTeraformNote.pdf)
 
 ## Table of Contents
 
